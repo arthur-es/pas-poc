@@ -58,12 +58,12 @@ public class ClickHandler : MonoBehaviour
                 pos.z = (float)1.8;
                 pos2.x = 0;
                 pos2.z = 1;
-                nomeText.text = "Nome: Jose";
-                condicaoText.text = "Condicao: Dor de dente";
+                nomeText.text = "Nome: José Neto";
+                condicaoText.text = "Condicao: Dor de cabeça";
             } else
             {
-                nomeText.text = "Nome: Joao";
-                condicaoText.text = "Condicao: Dor de dedo";
+                nomeText.text = "Nome: Ricardo";
+                condicaoText.text = "Condicao: Garganta inflamada";
                 pos.x = 0;
                 pos.z = 1;
                 pos2.x = (float)-1.5;

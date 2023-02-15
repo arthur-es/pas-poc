@@ -5,3 +5,7 @@ Implementação do projeto de webXR no unity do grupo 1 - referente ao [reposit�
 Grupo: Arthur Castro da Cunha, Felipe Silveira Schloegl e Joyce Beatriz Ferreira da Costa Silva
 
 Professor: Jacson Barbosa
+
+Documentação: 
+
+[PDF](doc.pdf)
